@@ -1,6 +1,6 @@
 ---
 layout: workshop_main_2day
-permalink: /genomic_medicine_2018
+permalink: /genmed_2018
 title: Genomic Medicine
 header1: Workshop Pages for Students
 header2: Bioinformatics of Genomic Medicine
