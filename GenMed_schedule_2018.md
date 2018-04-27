@@ -8,7 +8,7 @@ image: /site_images/CBW_population_icon.jpg
 home: https://bioinformaticsdotca.github.io/genomic_medicine_2018
 ---
 
-Day 0: Introduction to Unix 5:00 pm
+
 
 | | **Day 1** | | **Day 2** |  
 | :---: | :---: | :---: | :---: |  
