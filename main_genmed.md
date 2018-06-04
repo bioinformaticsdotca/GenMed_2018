@@ -61,7 +61,13 @@ biocLite("limma");
 biocLite("lumi");
 biocLite("sva");
 
-```  
+``` 
+
+
+10) [IGV](http://software.broadinstitute.org/software/igv/download) and [Java 8](https://www.java.com/en/download/help/download_options.xml)  
+
+11) [sqlitebrowser](http://sqlitebrowser.org/)  
+
 
 ## Read these papers before the workshop:  
 
