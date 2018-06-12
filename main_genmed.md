@@ -5,6 +5,10 @@ title: Genomic Medicine
 header1: Workshop Pages for Students
 header2: Bioinformatics of Genomic Medicine 2018
 image: /site_images/CBW_population_icon.jpg
+keywords: identify disease variants, perform patient classification, exome analysis
+description: Course will explore various aspects of genomic medicine, covering and teaching popular tools and methods in the field.
+instructors: Micheal Brudno, Guillaume Bourque, Carl Virtanen, Andrei Turinsky, Anna Goldenberg
+length: 2 days 
 ---
 
 # Welcome <a id="welcome"></a>
