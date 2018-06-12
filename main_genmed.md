@@ -3,92 +3,108 @@ layout: workshop_main_2day
 permalink: /genmed_2018
 title: Genomic Medicine
 header1: Workshop Pages for Students
-header2: Bioinformatics of Genomic Medicine
+header2: Bioinformatics of Genomic Medicine 2018
 image: /site_images/CBW_population_icon.jpg
 ---
 
 # Welcome <a id="welcome"></a>
 
-Welcome to Bioinformatics of Genomic Medicine.  
+Welcome to Bioinformatics of Genomic Medicine.
 
-## Install these tools before the workshop:  
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/genmed_2018_schedule).
 
-1) A robust text editor.   
+Pre-readings, pre-work, and laptop setup instructions can be found [here](https://bioinformaticsdotca.github.io/genmed_2018_prework).<a id="preworkshop"></a>  
 
-* For Windows/PC - [notepad++](http://notepad-plus-plus.org/)  
-* For Linux - [gEdit](http://projects.gnome.org/gedit/)  
-* For Mac – [TextWrangler](http://www.barebones.com/products/textwrangler/download.html)
+We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
 
-2) A file decompression tool.  
+The full course notes are available as a [single PDF](https://drive.google.com/open?id=11q1kH8e02g2EJbSFgG66zZbCCNT3h_3H).  
 
-* For Windows/PC – [7zip](http://www.7-zip.org/).  
-* For Linux – [gzip](http://www.gzip.org).   
-* For Mac – already there.
+***
 
-3) A robust internet browser such as Firefox or Safari (Internet Explorer and Chrome are not recommended because of Java issues).
+# Day 1 <a id="day1"></a>
 
-4) SSH client - Mac and Linux users already have a command line ssh program that can be run from the terminal. For Windows users, please download [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).  
+## Welcome
 
-5) SCP/SFTP client - We will be moving data from the servers to the student laptops for visualization. Mac and Linux users already have a command line scp and sftp program. For Windows users, please install [WinSCP](http://winscp.net/eng/download.php).
+*<font color="#827e9c">Ann Meyer</font>*
 
-6) A PDF viewer (Adobe Acrobat or equivalent).
+## Module 1: Introduction to Genetic Disorders
 
-7) Latest version of [R](http://www.r-project.org/) and [RStudio](http://www.rstudio.com/).  If asked to also install git, select yes.
+*<font color="#827e9c">Michael Brudno</font>* 
 
-8) Install the BioConductor core packages. To do this, open RStudio and type the following at the > prompt:
+[Lecture](https://drive.google.com/open?id=1C4TAuZBLQZKbZ1DO5nEmToW8FvWQDDUS)  
 
-```r
-source("http://bioconductor.org/biocLite.R");
-biocLite();
-```
+[Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2018_module1_lab)
 
-9) Install some workshop specific packages in RStudio. At the > prompt, type:
+[Demo Exomes Zip](https://drive.google.com/open?id=0B9YRtlFnFl-Qa1ZiSmVMa0hxdjg) 
 
-```r
-install.packages("SNFtool");
-install.packages("gplots");
-install.packages("RColorBrewer");
-install.packages("glmnet");
-install.packages("ggplot2");
-install.packages("reshape2");
-install.packages("pROC");
-install.packages("caret");
-install.packages("matrixStats");
-source("http://bioconductor.org/biocLite.R");
-biocLite("minfi");
-biocLite("bumphunter");
-biocLite("limma");
-biocLite("lumi");
-biocLite("sva");
-
-``` 
+[Coded Phenotypes Zip](https://github.com/bioinformaticsdotca/Genomic_Med_2017/raw/master/mod1_lab/Coded%20Phenotypes%20to%20match%20VCF%20Labels-20170509T210405Z-001.zip)  
 
 
-10) [IGV](http://software.broadinstitute.org/software/igv/download) and [Java 8](https://www.java.com/en/download/help/download_options.xml)  
+## Module 2: Introduction to Tools, Computing Infrastructure, and Data
 
-11) [sqlitebrowser](http://sqlitebrowser.org/)  
+*<font color="#827e9c">Mathieu Bourgey</font>* 
+
+[Lecture](https://drive.google.com/open?id=1m3fqOL0lcFttC1f6hLQo6sPnopBpbwAf)  
+
+[Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2017_module2_lab)
+
+## Module 3: Variant Annotation
+
+*<font color="#827e9c">Sergey Naumenko</font>* 
+
+[Lecture](https://drive.google.com/open?id=1mZa7e77iAdlGXsAWYYP4jZ6J8z78Fwc-)  
+
+[Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2018_module3_lab)  
+
+[Lab Practical 3b](/https://bioinformaticsdotca.github.io/GenMed_2018_module1_lab)  
+
+## Module 4: Translating Research Workflows into Clinical Tests
+
+*<font color="#827e9c">Natalie Stickle</font>* 
+
+[Lecture](https://drive.google.com/open?id=1q-q50TRUHE70uY-grbQn9jx8kChn_2KR)  
+ 
+
+***
+
+# Day 2 <a id="day2"></a>
+
+## Module 5: Available Epigenetics Data and Resources  
+
+*<font color="#827e9c">Guillaume Bourque</font>* 
+
+[Lecture](https://drive.google.com/open?id=1y96B4hZc8lpekuNw4zZ-kDZ6VOLkBI4I)   
+
+[Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2018_module5_lab)
+
+## Module 6: Epigenetic Profiling in Disease
+
+*<font color="#827e9c">Andrei Turinsky</font>* 
+
+[Lecture](https://drive.google.com/open?id=1V4r0YHp2fsMJTuZQlGRINc6e1iLtCCrJ)   
+
+[Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2018_module6_lab)  
+
+[Lab Script](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/mod6/cbw_mod6.R)  
+
+[GEO file](https://drive.google.com/open?id=0B9YRtlFnFl-QM1BNc1JKYTQ2cUE)  
+
+## Module 7: Identifying Integrative Subtypes and Building Classifiers 
+
+*<font color="#827e9c">Anna Goldenberg</font>* 
+
+[Lecture](https://drive.google.com/open?id=1QUYsIOXMNemmULmsTzLH5mWw4EW_umvV)    
+
+[Lab Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1_TaMTCrTS0omssDqaqjBB3YSjP1vUDK7/view?usp=sharing)
+
+[Lab Practical](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/CBW-GenomicMedicine-Module7-Lab-script.r)  
+[Lab R Data](https://drive.google.com/open?id=0B9YRtlFnFl-QWXk4cTVwYVZOVTA)  
+
+***
+
+## Survey
+
+Thank you for attending the Bioinformatics of Genomic Medicine workshop!  Help us make this workshop better by filling out [our survey]().
 
 
-## Read these papers before the workshop:  
 
-[The Human Phenotype Ontology: A Tool for Annotating and Analyzing Human Hereditary Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668030/)  
-[PhenoTips: patient phenotyping software for clinical and research use](https://www.ncbi.nlm.nih.gov/pubmed/23636887)  
-[IHEC Data portal](http://www.cell.com/cell-systems/abstract/S2405-4712(16)30362-3)  
-
-## Do these tutorials before the workshop:  
-
-1) **R Preparation tutorials**: You are expected to have completed the following tutorials in **R** beforehand. The tutorial should be very accessible even if you have never used **R** before.
-
-* The [CBW R tutorial](http://bioinformatics-ca.github.io/CBW_R_Tutorial/)
-* [Quick and Dirty Guide to **R**](http://ww2.coastal.edu/kingw/statistics/R-tutorials/text/quick&dirty_R.txt)  
-* The [R Tutorial](http://www.cyclismo.org/tutorial/R/) up to and including 5. Basic Plots
-* The [R command cheat sheet](https://github.com/bioinformaticsdotca/bioinformaticsdotca.github.io/blob/master/resources/R_Short-refcard.pdf)
-
-2) **UNIX Preparation tutorials**:  
-
-* [UNIX Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
-* [Unix Cheat sheet](http://www.rain.org/~mkummel/unix.html) 
-
-3) [Sequencing Terminology](http://www.ncbi.nlm.nih.gov/projects/genome/glossary.shtml)
-
-Please note that these instructions may change prior to the workshop.  
