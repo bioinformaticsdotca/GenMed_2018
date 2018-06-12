@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /Bioinformatics-for-genomics-medecine_2017_module2_lab
+permalink: /Bioinformatics-for-genomics-medecine_2018_module2_lab
 title: BFX-Genomics-medecine Lab 2
 header1: Workshop Pages for Students
 header2: Bioinformatics for Genomics Medicine Module 2 Lab
 image: /site_images/CBW_population_icon.jpg
-home: https://bioinformaticsdotca.github.io/
+home: https://bioinformaticsdotca.github.io/genmed_2018
 ---
 
 -----------------------
