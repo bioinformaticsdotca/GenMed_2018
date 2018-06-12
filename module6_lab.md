@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /GenMed_2017_module6_lab
+permalink: /GenMed_2018_module6_lab
 title: GenMed Lab 6
 header1: Workshop Pages for Students
-header2: Genomic Medicine 2017 Module 6 Lab
+header2: Genomic Medicine 2018 Module 6 Lab
 image: /site_images/CBW_population_icon.jpg
-home: https://bioinformaticsdotca.github.io/genomic_medicine_2017
+home: https://bioinformaticsdotca.github.io/genmed_2018
 description: Epigenetic Profiling in Disease
 author: Andrei Turinsky
 modified: May 11th, 2017
