@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /GenMed_2017_module1_lab
+permalink: /GenMed_2018_module1_lab
 title: GenMed Lab 1
 header1: Workshop Pages for Students
-header2: Bioinformatics of Genomic Medicine 2017 Module 1 Lab
+header2: Bioinformatics of Genomic Medicine 2018 Module 1 Lab
 image: /site_images/CBW_population_icon.jpg
-home: https://bioinformaticsdotca.github.io/genomic_medicine_2017
+home: https://bioinformaticsdotca.github.io/genmed_2018
 desription: GenMed Lab 1
 author: Micheal Brudno
 modified: May 10th 2017
