@@ -53,20 +53,12 @@ In this module's lab, we will explore some of the tools that were covered in the
 
 * Go back to selecting only the datasets coming from the CEEHRC consortium
 
-* Select the 3 H3K27ac ChIP-seq datasets in *B cells - Other*
-   * Notice the importance of ontologies...
+* Select the 8 H3K27ac ChIP-seq datasets in *B cells - Other*
    
-* Select the 3 mRNA-seq datasets in the same cell type
+* Select the 4 mRNA-seq datasets in the same cell type
 
 * Click on the button *Visualize in Genome Browser* just below the grid
    * You can see that the datasets are being displayed at a mirror of the UCSC Genome Browser. These are all peaks and signal for the chosen H3K27ac ChIP-Seq and RNA-seq datasets. 
-
-* (Optional) If the browser is slow, notice that in the address bar you have something like:
-   * http://ucscbrowser.genap.ca/cgi-bin/hgTracks?hubClear=http://epigenomesportal.ca/cgi-bin/hub.cgi?session=3113&db=hg19
-   * The second portion of the address is actually a track hub that you can load in any UCSC Genome Browser
-   * Go to the main UCSC genome browser: http://genome.ucsc.edu/cgi-bin/hgGateway
-   * Click on MyData -> Track Hubs, then click on My Hubs
-   * Copy the URL, e.g. http://epigenomesportal.ca/cgi-bin/hub.cgi?session=3113&db=hg19
    
 * Now, type in the name of the gene CD79A (a gene expressed in B cells)
    
