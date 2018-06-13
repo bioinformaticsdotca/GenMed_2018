@@ -37,6 +37,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lecture](https://drive.google.com/open?id=1C4TAuZBLQZKbZ1DO5nEmToW8FvWQDDUS)  
 
+[Recording](https://www.youtube.com/watch?v=-DAKsHuQZ-c)
+
 [Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2018_module1_lab)
 
 [Demo Exomes Zip](https://drive.google.com/open?id=0B9YRtlFnFl-Qa1ZiSmVMa0hxdjg) 
@@ -49,6 +51,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 *<font color="#827e9c">Mathieu Bourgey</font>* 
 
 [Lecture](https://drive.google.com/open?id=1m3fqOL0lcFttC1f6hLQo6sPnopBpbwAf)  
+
+[Recording](https://www.youtube.com/watch?v=IQGWHTl08No&list=PL3izGL6oi0S9c3vcpEMQ1hc4eNEWVwIoj&index=3)
 
 [Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2018_module2_lab)
 
