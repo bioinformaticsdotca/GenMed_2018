@@ -44,14 +44,14 @@ In this module's lab, we will explore some of the tools that were covered in the
 
 <img src="https://bioinformaticsdotca.github.io/Genomic_Med_2017/img/ihec_data.jpeg" alt="IMG" width="750" />
 
-* Can you sort and re-organize the grid differently? Try sorting by *Cell type category*.
-
 * Explore the various filtering options on the right, is there a way to restrict this list to your tissue of interest?
+
+* Can you search and find your favorite cell type? What type of datasets are available?
 
 
 #### Visualizing the tracks
 
-* Go back to selecting only the datasets coming from the CEEHRC consortium sorted by *Cell type*
+* Go back to selecting only the datasets coming from the CEEHRC consortium
 
 * Select the 3 H3K27ac ChIP-seq datasets in *B cells - Other*
    * Notice the importance of ontologies...
