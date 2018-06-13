@@ -1,1 +1,1 @@
-# GenMed_2018
+# Bioinformatics of Genomic Medicine 2018
