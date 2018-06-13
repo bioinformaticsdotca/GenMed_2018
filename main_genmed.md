@@ -58,7 +58,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lecture](https://drive.google.com/open?id=1mZa7e77iAdlGXsAWYYP4jZ6J8z78Fwc-)  
 
-[Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2018_module3_lab)  
+[Lab Practical](https://gist.github.com/naumenko-sa/82df1cb7d9b5f64691bf437f0eb455f0)  
 
 [Lab Practical 3b](/https://bioinformaticsdotca.github.io/GenMed_2018_module1_lab)  
 
