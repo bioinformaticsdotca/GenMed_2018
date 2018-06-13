@@ -31,9 +31,9 @@ In this module's lab, we will use R packages to analyse epigenetic data related 
 
 * Create a new directory (folder) for Module 6.
 
-* Place the provided [R script](https://github.com/bioinformaticsdotca/GenMed_2018/blob/master/mod6/cbw-mod6-2018.R) into the newly created directory for Module 6.
+* Place the provided [R script](https://github.com/bioinformaticsdotca/GenMed_2018/tree/master/mod6/cbw-mod6-2018.R) into the newly created directory for Module 6.
 
-* Place 3 data files [samplesheet.csv](https://github.com/bioinformaticsdotca/GenMed_2018/blob/master/mod6/samplesheet.csv), [betas.csv](https://github.com/bioinformaticsdotca/GenMed_2018/blob/master/mod6/betas.csv) and [annotations.csv](https://github.com/bioinformaticsdotca/GenMed_2018/blob/master/mod6/annotations.csv) into the newly created directory for Module 6.
+* Place 3 data files [samplesheet.csv](https://github.com/bioinformaticsdotca/GenMed_2018/tree/master/mod6/samplesheet.csv), [betas.csv](https://github.com/bioinformaticsdotca/GenMed_2018/tree/master/mod6/betas.csv) and [annotations.csv](https://github.com/bioinformaticsdotca/GenMed_2018/tree/master/mod6/annotations.csv) into the newly created directory for Module 6.
 
 * Open the RStudio. Follow the menu File > New Project > Existing Directory, and choose your Module 6 directory to create a new R project.  
    
