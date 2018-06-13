@@ -89,9 +89,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2018_module6_lab)  
 
-[Lab Script](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/mod6/cbw_mod6.R)  
-
-[GEO file](https://drive.google.com/open?id=0B9YRtlFnFl-QM1BNc1JKYTQ2cUE)  
+[Lab Script](https://github.com/bioinformaticsdotca/GenMed_2018/blob/master/mod6/cbw-mod6-2018.R)  
 
 ## Module 7: Identifying Integrative Subtypes and Building Classifiers 
 
