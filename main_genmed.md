@@ -50,7 +50,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lecture](https://drive.google.com/open?id=1m3fqOL0lcFttC1f6hLQo6sPnopBpbwAf)  
 
-[Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2017_module2_lab)
+[Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2018_module2_lab)
 
 ## Module 3: Variant Annotation
 
@@ -60,7 +60,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lab Practical](https://gist.github.com/naumenko-sa/82df1cb7d9b5f64691bf437f0eb455f0)  
 
-[Lab Practical 3b](/https://bioinformaticsdotca.github.io/GenMed_2018_module1_lab)  
+[Lab Practical 3b](https://bioinformaticsdotca.github.io/GenMed_2018_module1_lab)  
 
 ## Module 4: Translating Research Workflows into Clinical Tests
 
