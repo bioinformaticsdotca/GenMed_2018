@@ -81,8 +81,8 @@ You can get a whole genome overview of the similarity of a group of tracks by us
 
 [Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/correlation.jpeg)
 
-* Can you find a outlier/bad dataset?
-   * Under *Blood* cell-type, try correlating the 8 *B-cells* with the 4 *T cells* H3K27ac datasets 
+* Can you find an outlier/bad dataset?
+   * Under *Blood* cell-type, try correlating the 8 *B-cell* with the 4 *T-cell* H3K27ac datasets 
 
 #### Download tracks or metadata
 You can also download these tracks locally for visualization or further analysis, or view the metadata.
@@ -90,6 +90,7 @@ You can also download these tracks locally for visualization or further analysis
 * Go back to the IHEC Data Portal tab.
 * Click on the *Download tracks* button at the bottom of the grid.
 * Use the download links to download a few of the tracks.
+* What about the raw data?
 * Go back to the IHEC Data Portal tab.
 * Click on the *Get metadata* button at the bottom of the grid.
 
