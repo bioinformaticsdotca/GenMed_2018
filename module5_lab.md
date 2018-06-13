@@ -8,7 +8,7 @@ image: /site_images/CBW_population_icon.jpg
 home: https://bioinformaticsdotca.github.io/genmed_2018
 description: Available Epigenomics Data and Resources
 author: Guillaume Bourque
-modified: May 11th, 2017
+modified: June 13th, 2018
 ---
 
 # Module 5: Available Epigenomics Data and Resources
@@ -82,7 +82,7 @@ You can get a whole genome overview of the similarity of a group of tracks by us
 [Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/correlation.jpeg)
 
 * Can you find a outlier/bad dataset?
-   * Try correlating the 8 *amygdala - Other* with the 5 *B cell - Blood* H3K27ac datasets 
+   * Under *Blood* cell-type, try correlating the 8 *B-cells* with the 4 *T cells* H3K27ac datasets 
 
 #### Download tracks or metadata
 You can also download these tracks locally for visualization or further analysis, or view the metadata.
