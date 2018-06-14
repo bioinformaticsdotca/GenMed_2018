@@ -25,6 +25,12 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 ***
 
+# Class photo
+
+<img src="https://github.com/bioinformaticsdotca/GenMed_2018/blob/master/IMG_0245.JPG?raw=true" alt="img" width="750" />
+
+***
+
 # Day 1 <a id="day1"></a>
 
 ## Welcome
