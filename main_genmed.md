@@ -101,10 +101,10 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lecture](https://drive.google.com/open?id=1QUYsIOXMNemmULmsTzLH5mWw4EW_umvV)    
 
-[Lab Lecture]()
+[Lab Practical](https://drive.google.com/a/bioinformatics.ca/file/d/1U7r0xjvYZJXkqHYoHyJ3YFPcWsM0c4zI/view?usp=sharing) 
 
-[Lab Practical]()  
-[Lab R Data]()  
+[Lab Practical with answers](https://drive.google.com/a/bioinformatics.ca/file/d/12X-fUs9ANf8G5DunWDO4xdBsKB5lWgYK/view?usp=sharing) 
+ 
 
 ***
 
