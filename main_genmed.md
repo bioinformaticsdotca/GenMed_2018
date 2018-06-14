@@ -101,16 +101,20 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lecture](https://drive.google.com/open?id=1QUYsIOXMNemmULmsTzLH5mWw4EW_umvV)    
 
+[Lab Presentation](https://drive.google.com/a/bioinformatics.ca/file/d/1hYBFIJ3GauOVMr6wZxwQUPO0HBy_b-L4/view?usp=sharing) 
+
 [Lab Practical](https://drive.google.com/a/bioinformatics.ca/file/d/1U7r0xjvYZJXkqHYoHyJ3YFPcWsM0c4zI/view?usp=sharing) 
 
 [Lab Practical with answers](https://drive.google.com/a/bioinformatics.ca/file/d/12X-fUs9ANf8G5DunWDO4xdBsKB5lWgYK/view?usp=sharing) 
- 
+
+[Lab Data](https://drive.google.com/a/bioinformatics.ca/file/d/1UCtrsrcwpu_QEzLON252uWgGSWDtm8_C/view?usp=sharing)  
+
 
 ***
 
 ## Survey
 
-Thank you for attending the Bioinformatics of Genomic Medicine workshop!  Help us make this workshop better by filling out [our survey]().
+Thank you for attending the Bioinformatics of Genomic Medicine workshop!  Help us make this workshop better by filling out [our survey](https://docs.google.com/forms/d/e/1FAIpQLSe_poG8zfBe-0gIffGNdy6PDdbR5lK9zk3Uirg7dV8pPsKvEQ/viewform?usp=sf_link).
 
 
 
