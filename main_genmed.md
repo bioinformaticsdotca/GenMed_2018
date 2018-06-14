@@ -101,10 +101,10 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lecture](https://drive.google.com/open?id=1QUYsIOXMNemmULmsTzLH5mWw4EW_umvV)    
 
-[Lab Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1_TaMTCrTS0omssDqaqjBB3YSjP1vUDK7/view?usp=sharing)
+[Lab Lecture]()
 
-[Lab Practical](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/CBW-GenomicMedicine-Module7-Lab-script.r)  
-[Lab R Data](https://drive.google.com/open?id=0B9YRtlFnFl-QWXk4cTVwYVZOVTA)  
+[Lab Practical]()  
+[Lab R Data]()  
 
 ***
 
