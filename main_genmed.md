@@ -109,7 +109,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 *<font color="#827e9c">Anna Goldenberg</font>* 
 
-[Lecture](https://drive.google.com/open?id=1QUYsIOXMNemmULmsTzLH5mWw4EW_umvV)    
+[Lecture](https://docs.google.com/presentation/d/1CDSVL27cBvDoILFizzXD7Tz5bniFKIY8b7gYLu48VGM/edit?usp=sharing)    
 
 [Lab Presentation](https://drive.google.com/a/bioinformatics.ca/file/d/1hYBFIJ3GauOVMr6wZxwQUPO0HBy_b-L4/view?usp=sharing) 
 
