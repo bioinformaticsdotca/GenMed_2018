@@ -77,6 +77,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 *<font color="#827e9c">Natalie Stickle</font>* 
 
 [Lecture](https://drive.google.com/open?id=1q-q50TRUHE70uY-grbQn9jx8kChn_2KR)  
+
+[Recording](https://www.youtube.com/watch?v=6aXjecaSf68)
  
 
 ***
@@ -88,6 +90,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 *<font color="#827e9c">Guillaume Bourque</font>* 
 
 [Lecture](https://drive.google.com/open?id=1y96B4hZc8lpekuNw4zZ-kDZ6VOLkBI4I)   
+
+[Recording](https://www.youtube.com/watch?v=LHjsE1iYdmY)
 
 [Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2018_module5_lab)
 
