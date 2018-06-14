@@ -117,7 +117,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 [Lab Practical with answers](https://drive.google.com/a/bioinformatics.ca/file/d/12X-fUs9ANf8G5DunWDO4xdBsKB5lWgYK/view?usp=sharing) 
 
-[Lab Data](https://drive.google.com/a/bioinformatics.ca/file/d/1Tx2XWOJKXRJhEoChkqpYwqzknQRxfXkg/view?usp=sharing)  
+[Lab Data](https://drive.google.com/a/bioinformatics.ca/file/d/1elGbUwkxfQdT5xCC9btj5nndj4agJr8X/view?usp=sharing)  
 
 
 ***
