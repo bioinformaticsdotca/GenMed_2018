@@ -99,7 +99,9 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 *<font color="#827e9c">Andrei Turinsky</font>* 
 
-[Lecture](https://drive.google.com/open?id=1V4r0YHp2fsMJTuZQlGRINc6e1iLtCCrJ)   
+[Lecture](https://drive.google.com/open?id=1V4r0YHp2fsMJTuZQlGRINc6e1iLtCCrJ)  
+
+[Recording](https://www.youtube.com/watch?v=Y_HlrIViIck&feature=youtu.be)
 
 [Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2018_module6_lab)  
 
@@ -110,6 +112,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 *<font color="#827e9c">Anna Goldenberg</font>* 
 
 [Lecture](https://docs.google.com/presentation/d/1CDSVL27cBvDoILFizzXD7Tz5bniFKIY8b7gYLu48VGM/edit?usp=sharing)    
+
+[Recording](https://www.youtube.com/watch?v=Fviu-Xj8flQ)
 
 [Lab Presentation](https://drive.google.com/a/bioinformatics.ca/file/d/1hYBFIJ3GauOVMr6wZxwQUPO0HBy_b-L4/view?usp=sharing) 
 
